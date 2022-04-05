@@ -1,0 +1,62 @@
+[
+  {
+    "Swords": [
+      {
+        "Straightswords": [
+          {
+            "Name": "Astora's Straight Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Astora%27s_Straight_Sword?file=Wpn_Astora%2527s_Straight_Sword.png",
+            "Damage Type": ["Regular", "Thrust", "Magic"],
+            "Auxiliary Effect": "Divine",
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 80,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 14
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "C"
+            }
+          }
+        ]
+      },
+      { "Greatswords": [{}] },
+      { "Ultra Greatswords": [{}] },
+      { "Curved Swords": [{}] },
+      { "Curved Greatswords": [{}] },
+      { "Thrusting Swords": [{}] },
+      { "Katanas": [{}] }
+    ],
+    "Axes": [{ "Axes": [{}] }, { "Greataxes": [{}] }],
+    "Polearms": [{ "Spears": [{}] }, { "Halberd": [{}] }],
+    "Hammers": [{ "Club": [{}] }, { "Great Hammers": [{}] }],
+    "Other Melee": [
+      { "Daggers": [{}] },
+      { "Gauntlets": [{}] },
+      { "Whips": [{}] },
+      { "Latern": [{}] }
+    ],
+    "Ranged": [{ "Bows": [{}] }, { "Crossbows": [{}] }],
+    "Casting Instruments": [
+      { "Catalysts": [{}] },
+      { "Talismans": [{}] },
+      { "Pyromancy Flame": [{}] }
+    ]
+  }
+]
