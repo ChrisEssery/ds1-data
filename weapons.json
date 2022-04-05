@@ -421,7 +421,426 @@
           }
         ]
       },
-      { "Greatswords": [{}] },
+      {
+        "Greatswords": [
+          {
+            "Name": "Abyss Greatsword",
+            "Image": "https://darksouls.fandom.com/wiki/Abyss_Greatsword?file=Wpn_Abyss_Greatsword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 160,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "50%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 22,
+              "Dexterity": 18,
+              "Intelligence": 18,
+              "Faith": 18
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Bastard Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Bastard_Sword?file=Wpn_Bastard_Sword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 105,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Black Knight Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Sword?file=Wpn_Black_Knight_Sword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 220,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 20,
+              "Dexterity": 18,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "E",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Claymore",
+            "Image": "https://darksouls.fandom.com/wiki/Claymore?file=Wpn_Claymore.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 103,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Crystal Greatsword",
+            "Image": "https://darksouls.fandom.com/wiki/Crystal_Greatsword?file=Wpn_Crystal_Greatsword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 190,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 20,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Flamberge",
+            "Image": "https://darksouls.fandom.com/wiki/Flamberge?file=Wpn_Flamberge.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 100,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Great Lord Greatsword",
+            "Image": "https://darksouls.fandom.com/wiki/Great_Lord_Greatsword?file=Wpn_Great_Lord_Greatsword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 256,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 20,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Greatsword of Artorias",
+            "Image": "https://darksouls.fandom.com/wiki/Greatsword_of_Artorias?file=Weapon-weapon-greatsword_of_artorias.png",
+            "Damage Type": ["Regular", "Thrust", "Magic"],
+            "Auxiliary Effect": "Divine",
+            "Attack Values": {
+              "Physical Damage": 120,
+              "Magic Damage": 85,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 24,
+              "Dexterity": 18,
+              "Intelligence": 20,
+              "Faith": 20
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "B",
+              "Faith": "B"
+            }
+          },
+          {
+            "Name": "Greatsword of Artorias (Cursed)",
+            "Image": "https://darksouls.fandom.com/wiki/Greatsword_of_Artorias_(Cursed)?file=Wpn_Greatsword_of_Atorias.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 178,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 24,
+              "Dexterity": 18,
+              "Intelligence": 18,
+              "Faith": 18
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "C",
+              "Faith": "C"
+            }
+          },
+          {
+            "Name": "Man-serpent Greatsword",
+            "Image": "https://darksouls.fandom.com/wiki/Man-serpent_Greatsword?file=Wpn_Man-Serpent_Greatsword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 110,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 24,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Moonlight Greatsword",
+            "Image": "https://darksouls.fandom.com/wiki/Moonlight_Greatsword_(Dark_Souls)?file=Wpn_Moonlight_Greatsword.png",
+            "Damage Type": ["Magic"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 0,
+              "Magic Damage": 132,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 10,
+              "Intelligence": 28,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "S",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Obsidian Greatsword",
+            "Image": "https://darksouls.fandom.com/wiki/Obsidian_Greatsword?file=Wpn_Obsidian_Greatsword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 320,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 20,
+              "Dexterity": 16,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Stone Greatsword",
+            "Image": "https://darksouls.fandom.com/wiki/Stone_Greatsword?file=Wpn_Stone_Greatsword.png",
+            "Damage Type": ["Regular", "Magic"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 148,
+              "Magic Damage": 100,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 40,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "E",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Ultra Greatswords": [{}] },
       { "Curved Swords": [{}] },
       { "Curved Greatswords": [{}] },
