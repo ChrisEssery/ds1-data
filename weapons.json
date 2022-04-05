@@ -19,6 +19,7 @@
               "Physical Reduction": "50%",
               "Magic Reduction": "10%",
               "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
               "Stability": 32
             },
             "Stat Requirements": {
@@ -32,6 +33,390 @@
               "Dexterity": "C",
               "Intelligence": "-",
               "Faith": "C"
+            }
+          },
+          {
+            "Name": "Balder Side Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Balder_Side_Sword?file=Wpn_Balder_Side_Sword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Barbed Straight Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Barbed_Straight_Sword?file=Wpn_Barbed_Straight_Sword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Broadsword",
+            "Image": "https://darksouls.fandom.com/wiki/Broadsword?file=Wpn_Broadsword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 82,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Broken Straight Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Broken_Straight_Sword?file=Wpn_Broken_Straight_Sword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 40,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "20%",
+              "Magic Reduction": "5%",
+              "Fire Reduction": "15%",
+              "Lightning Reduction": "15%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 8,
+              "Dexterity": 8,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Crystal Straight Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Crystal_Straight_Sword?file=Wpn_Crystal_Straight_Sword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 145,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Darksword",
+            "Image": "https://darksouls.fandom.com/wiki/Darksword?file=Wpn_Darksword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 82,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 16,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Drake Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Drake_Sword?file=Wpn_Drake_Sword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 200,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Longsword",
+            "Image": "https://darksouls.fandom.com/wiki/Longsword?file=Wpn_Longsword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Shortsword",
+            "Image": "https://darksouls.fandom.com/wiki/Shortsword?file=Wpn_Shortsword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 78,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 8,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Silver Knight Straight Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Silver_Knight_Straight_Sword?file=Wpn_Silver_Knight_Straight_Sword.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 175,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 22,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Straight Sword Hilt",
+            "Image": "https://darksouls.fandom.com/wiki/Straight_Sword_Hilt?file=Wpn_Straight_Sword_Hilt.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 20,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "20%",
+              "Magic Reduction": "5%",
+              "Fire Reduction": "15%",
+              "Lightning Reduction": "15%",
+              "Stability": 10
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 6,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "E",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Sunlight Straight Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Sunlight_Straight_Sword?file=Wpn_Sunlight_Straight_Sword.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 82,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 12,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
             }
           }
         ]
