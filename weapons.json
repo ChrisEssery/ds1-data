@@ -3563,7 +3563,230 @@
       },
       { "Lantern": [{}] }
     ],
-    "Ranged": [{ "Bows": [{}] }, { "Crossbows": [{}] }],
+    "Ranged": [
+      {
+        "Bows": [
+          {
+            "Name": "Black Bow of Pharis",
+            "Image": "https://darksouls.fandom.com/wiki/Black_Bow_of_Pharis?file=Wpn_Black_Bow_of_Pharis.png",
+            "Shot Range": 65,
+            "Attack Values": {
+              "Physical Damage": 34,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 9,
+              "Dexterity": 18,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "S",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Composite Bow",
+            "Image": "https://darksouls.fandom.com/wiki/Composite_Bow?file=Wpn_Composite_Bow.png",
+            "Shot Range": 38,
+            "Attack Values": {
+              "Physical Damage": 55,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 11,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Darkmoon Bow",
+            "Image": "https://darksouls.fandom.com/wiki/Darkmoon_Bow?file=Wpn_Darkmoon_Bow.png",
+            "Shot Range": 50,
+            "Attack Values": {
+              "Physical Damage": 85,
+              "Magic Damage": 85,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 16,
+              "Intelligence": 0,
+              "Faith": 16
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "D"
+            }
+          },
+          {
+            "Name": "Dragonslayer Greatbow",
+            "Image": "https://darksouls.fandom.com/wiki/Dragonslayer_Greatbow?file=Wpn_Dragonslayer_Greatbow.png",
+            "Shot Range": 50,
+            "Attack Values": {
+              "Physical Damage": 90,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 20,
+              "Dexterity": 20,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Gough's Greatbow",
+            "Image": "https://darksouls.fandom.com/wiki/Gough%27s_Greatbow?file=Wpn_Goughs_Greatbow.png",
+            "Shot Range": 55,
+            "Attack Values": {
+              "Physical Damage": 85,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 27,
+              "Dexterity": 20,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Longbow",
+            "Image": "https://darksouls.fandom.com/wiki/Longbow?file=Wpn_Longbow.png",
+            "Shot Range": 50,
+            "Attack Values": {
+              "Physical Damage": 36,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 9,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "A",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Short Bow",
+            "Image": "https://darksouls.fandom.com/wiki/Short_Bow?file=Wpn_Short_Bow.png",
+            "Shot Range": 50,
+            "Attack Values": {
+              "Physical Damage": 31,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "A",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
+      { "Crossbows": [{}] }
+    ],
     "Casting Instruments": [
       { "Catalysts": [{}] },
       { "Talismans": [{}] },
