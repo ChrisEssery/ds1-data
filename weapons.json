@@ -1233,7 +1233,106 @@
           }
         ]
       },
-      { "Curved Greatswords": [{}] },
+      {
+        "Curved Greatswords": [
+          {
+            "Name": "Gravelord Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Gravelord_Sword?file=Wpn_Gravelord_Sword.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "Toxic",
+            "Attack Values": {
+              "Physical Damage": 265,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 36
+            },
+            "Stat Requirements": {
+              "Strength": 24,
+              "Dexterity": 13,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "E",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Murakumo",
+            "Image": "https://darksouls.fandom.com/wiki/Murakumo?file=Wpn_Murakumo.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 113,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 36
+            },
+            "Stat Requirements": {
+              "Strength": 28,
+              "Dexterity": 13,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Server",
+            "Image": "https://darksouls.fandom.com/wiki/Server?file=Wpn_Server.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 107,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "60%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 36
+            },
+            "Stat Requirements": {
+              "Strength": 24,
+              "Dexterity": 13,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Thrusting Swords": [{}] },
       { "Katanas": [{}] }
     ],
