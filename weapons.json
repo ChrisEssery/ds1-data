@@ -3297,7 +3297,170 @@
           }
         ]
       },
-      { "Gauntlets": [{}] },
+      {
+        "Gauntlets": [
+          {
+            "Name": "Fists",
+            "Image": "",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": ["-"],
+            "Attack Values": {
+              "Physical Damage": 20,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 0,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "_",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Caestus",
+            "Image": "https://darksouls.fandom.com/wiki/Caestus?file=Wpn_Caestus.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": ["-"],
+            "Attack Values": {
+              "Physical Damage": 66,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 5,
+              "Dexterity": 8,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Claw",
+            "Image": "https://darksouls.fandom.com/wiki/Claw?file=Wpn_Claws.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": ["Bleed"],
+            "Attack Values": {
+              "Physical Damage": 72,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Dark Hand",
+            "Image": "https://darksouls.fandom.com/wiki/Dark_Hand?file=Wpn_Dark_Hand.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": ["Occult"],
+            "Attack Values": {
+              "Physical Damage": 200,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "80%",
+              "Magic Reduction": "80%",
+              "Fire Reduction": "80%",
+              "Lightning Reduction": "80%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 0,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Dragon Bone Fist",
+            "Image": "https://darksouls.fandom.com/wiki/Dragon_Bone_Fist?file=Wpn_Dragon_Bone_Fist.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": ["-"],
+            "Attack Values": {
+              "Physical Damage": 95,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "0%",
+              "Magic Reduction": "0%",
+              "Fire Reduction": "0%",
+              "Lightning Reduction": "0%",
+              "Stability": 0
+            },
+            "Stat Requirements": {
+              "Strength": 20,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "A",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Whips": [{}] },
       { "Lantern": [{}] }
     ],
