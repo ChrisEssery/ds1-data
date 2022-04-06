@@ -2317,14 +2317,305 @@
           }
         ]
       },
-      { "Halberds": [{}] }
+      {
+        "Halberds": [
+          {
+            "Name": "Black Knight Halberd",
+            "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Halberd?file=Wpn_Black_Knight_Halberd.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 245,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 32,
+              "Dexterity": 18,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "E",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Gargoyle's Halberd",
+            "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Halberd?file=Wpn_Black_Knight_Halberd.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 115,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Giant's Halberd",
+            "Image": "https://darksouls.fandom.com/wiki/Giant%27s_Halberd?file=Wpn_Giant%2527s_Halberd.png",
+            "Damage Type": ["Regular", "Thrust", "Lightning"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 140,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 135,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 36,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Great Scythe",
+            "Image": "https://darksouls.fandom.com/wiki/Great_Scythe?file=Wpn_Great_Scythe.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 100,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 100,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 22
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Halberd",
+            "Image": "https://darksouls.fandom.com/wiki/Halberd?file=Wpn_Halberd.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 110,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Lifehunt Scythe",
+            "Image": "https://darksouls.fandom.com/wiki/Lifehunt_Scythe?file=Wpn_Lifehunt_Scythe.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 180,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 22
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Lucerne",
+            "Image": "https://darksouls.fandom.com/wiki/Lucerne?file=Wpn_Lucerne.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 110,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 15,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Scythe",
+            "Image": "https://darksouls.fandom.com/wiki/Scythe?file=Wpn_Scythe.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 110,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Titanite Catch Pole",
+            "Image": "https://darksouls.fandom.com/wiki/Titanite_Catch_Pole?file=Wpn_Titanite_Catch_Pole.png",
+            "Damage Type": ["Regular", "Magic"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 125,
+              "Magic Damage": 145,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "D",
+              "Faith": "-"
+            }
+          }
+        ]
+      }
     ],
     "Hammers": [{ "Club": [{}] }, { "Great Hammers": [{}] }],
     "Other Melee": [
       { "Daggers": [{}] },
       { "Gauntlets": [{}] },
       { "Whips": [{}] },
-      { "Latern": [{}] }
+      { "Lantern": [{}] }
     ],
     "Ranged": [{ "Bows": [{}] }, { "Crossbows": [{}] }],
     "Casting Instruments": [
