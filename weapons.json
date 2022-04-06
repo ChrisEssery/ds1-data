@@ -3101,7 +3101,202 @@
       }
     ],
     "Other Melee": [
-      { "Daggers": [{}] },
+      {
+        "Daggers": [
+          {
+            "Name": "Bandit's Knife",
+            "Image": "https://darksouls.fandom.com/wiki/Bandit%27s_Knife?file=Wpn_Bandit%2527s_Knife.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 56,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 147
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 5,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Dagger",
+            "Image": "https://darksouls.fandom.com/wiki/Dagger?file=Wpn_Dagger.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 56,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 131
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 5,
+              "Dexterity": 8,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Dark Silver Tracer",
+            "Image": "https://darksouls.fandom.com/wiki/Dark_Silver_Tracer?file=Wpn_Dark_Silver_Tracer.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "Toxic",
+            "Attack Values": {
+              "Physical Damage": 75,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 160
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 25,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "S",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Ghost Blade",
+            "Image": "https://darksouls.fandom.com/wiki/Ghost_Blade?file=Wpn_Ghost_Blade.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 110,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 127
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 5,
+              "Dexterity": 8,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Parrying Dagger",
+            "Image": "https://darksouls.fandom.com/wiki/Parrying_Dagger?file=Wpn_Parrying_Dagger.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 54,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 131
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 5,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Priscilla's Dagger",
+            "Image": "https://darksouls.fandom.com/wiki/Priscilla%27s_Dagger?file=Wpn_Priscilla%2527s_Dagger.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": ["Bleed", "Occult"],
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 20,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "_",
+              "Dexterity": "A",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Gauntlets": [{}] },
       { "Whips": [{}] },
       { "Lantern": [{}] }
