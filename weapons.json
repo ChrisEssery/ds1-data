@@ -3950,7 +3950,351 @@
       }
     ],
     "Casting Instruments": [
-      { "Catalysts": [{}] },
+      {
+        "Catalysts": [
+          {
+            "Name": "Beatrice's Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Beatrice%27s_Catalyst?file=Cata_Beatrices_Catalyst.png",
+            "Magic Adjust": "108 - 240",
+            "Attack Values": {
+              "Physical Damage": 40,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 0,
+              "Intelligence": 10,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "A",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Demon's Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Demon%27s_Catalyst?file=Cata_Demons_Catalyst.png",
+            "Magic Adjust": "106 - 200",
+            "Attack Values": {
+              "Physical Damage": 110,
+              "Magic Damage": 0,
+              "Fire Damage": 170,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 12,
+              "Dexterity": 10,
+              "Intelligence": 10,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "B",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Izalith Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Izalith_Catalyst?file=Cata_Izalith_Catalyst.png",
+            "Magic Adjust": "112 - 240",
+            "Attack Values": {
+              "Physical Damage": 40,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 0,
+              "Intelligence": 14,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "A",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Logan's Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Logan%27s_Catalyst?file=Cata_Logans_Catalyst.png",
+            "Magic Adjust": "100 - 250",
+            "Attack Values": {
+              "Physical Damage": 46,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 0,
+              "Intelligence": 24,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "S",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Manus Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Manus_Catalyst?file=Cata_Manus_Catalyst.png",
+            "Magic Adjust": "116 - 295",
+            "Attack Values": {
+              "Physical Damage": 190,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 0,
+              "Intelligence": 13,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "-",
+              "Intelligence": "S",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Oolacile Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Oolacile_Catalyst?file=Cata_Oolacile_Catalyst.png",
+            "Magic Adjust": "180",
+            "Attack Values": {
+              "Physical Damage": 40,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 0,
+              "Intelligence": 10,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "C",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Oolacile Ivory Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Oolacile_Ivory_Catalyst?file=Cata_Oolacile_Ivory_Catalyst.png",
+            "Magic Adjust": "180",
+            "Attack Values": {
+              "Physical Damage": 24,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 3,
+              "Dexterity": 0,
+              "Intelligence": 12,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "C",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Sorcerer's Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Sorcerer%27s_Catalyst?file=Wpn_Sorcerers_Catalyst.png",
+            "Magic Adjust": "108 - 240",
+            "Attack Values": {
+              "Physical Damage": 40,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 6,
+              "Dexterity": 0,
+              "Intelligence": 10,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "A",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Tin Banishment Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Tin_Banishment_Catalyst?file=Cata_Tin_Banishment_Catalyst.png",
+            "Magic Adjust": "109 - 220",
+            "Attack Values": {
+              "Physical Damage": 145,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 10,
+              "Intelligence": 12,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "D",
+              "Intelligence": "A",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Tin Crystallization Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Tin_Crystallization_Catalyst?file=Cata_Tin_Crystallization_Catalyst.png",
+            "Magic Adjust": "254 - 315",
+            "Attack Values": {
+              "Physical Damage": 240,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 0,
+              "Intelligence": 32,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "S",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Tin Darkmoon Catalyst",
+            "Image": "https://darksouls.fandom.com/wiki/Tin_Darkmoon_Catalyst?file=Cata_Tin_Darkmoon_Catalyst.png",
+            "Magic Adjust": "118 - 230",
+            "Attack Values": {
+              "Physical Damage": 44,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 16
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "A"
+            }
+          }
+        ]
+      },
       { "Talismans": [{}] },
       { "Pyromancy Flame": [{}] }
     ]
