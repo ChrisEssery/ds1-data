@@ -1827,7 +1827,170 @@
           }
         ]
       },
-      { "Greataxes": [{}] }
+      {
+        "Greataxes": [
+          {
+            "Name": "Black Knight Greataxe",
+            "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Greataxe?file=Wpn_Black_Knight_Greataxe.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 229,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "55%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 36,
+              "Dexterity": 18,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "E",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Demon's Greataxe",
+            "Image": "https://darksouls.fandom.com/wiki/Demon%27s_Greataxe?file=Wpn_Demon%2527s_Greataxe.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 114,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "55%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 46,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "A",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Dragon King Greataxe",
+            "Image": "https://darksouls.fandom.com/wiki/Dragon_King_Greataxe?file=Wpn_Dragon_King_Greataxe.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 380,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "55%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 50,
+              "Dexterity": 8,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Greataxe",
+            "Image": "https://darksouls.fandom.com/wiki/Greataxe?file=Wpn_Greataxe.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 140,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "55%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 32,
+              "Dexterity": 8,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "E",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Stone Greataxe",
+            "Image": "https://darksouls.fandom.com/wiki/Stone_Greataxe?file=Stone_Greataxe.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 190,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "55%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 38
+            },
+            "Stat Requirements": {
+              "Strength": 48,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "E",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      }
     ],
     "Polearms": [{ "Spears": [{}] }, { "Halberds": [{}] }],
     "Hammers": [{ "Club": [{}] }, { "Great Hammers": [{}] }],
