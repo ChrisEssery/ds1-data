@@ -3561,7 +3561,42 @@
           }
         ]
       },
-      { "Lantern": [{}] }
+      {
+        "Lanterns": [
+          {
+            "Name": "Skull Lantern",
+            "Image": "https://darksouls.fandom.com/wiki/Skull_Lantern?file=Skull_lantern.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": ["-"],
+            "Attack Values": {
+              "Physical Damage": 30,
+              "Magic Damage": 0,
+              "Fire Damage": 75,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 5,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      }
     ],
     "Ranged": [
       {
