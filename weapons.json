@@ -1497,7 +1497,138 @@
           }
         ]
       },
-      { "Katanas": [{}] }
+      {
+        "Katanas": [
+          {
+            "Name": "Chaos Blade",
+            "Image": "https://darksouls.fandom.com/wiki/Chaos_Blade?file=Wpn_Chaos_Blade.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 133,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 4,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Iaito",
+            "Image": "https://darksouls.fandom.com/wiki/Iaito?file=Wpn_Iaito.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 88,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 20,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Uchigatana",
+            "Image": "https://darksouls.fandom.com/wiki/Uchigatana?file=Wpn_Uchigatana.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 90,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 24,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Washing Pole",
+            "Image": "https://darksouls.fandom.com/wiki/Washing_Pole?file=Wpn_Washing_Pole.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 90,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 20,
+              "Dexterity": 16,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      }
     ],
     "Axes": [{ "Axes": [{}] }, { "Greataxes": [{}] }],
     "Polearms": [{ "Spears": [{}] }, { "Halberd": [{}] }],
