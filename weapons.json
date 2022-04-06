@@ -2610,7 +2610,301 @@
         ]
       }
     ],
-    "Hammers": [{ "Club": [{}] }, { "Great Hammers": [{}] }],
+    "Hammers": [
+      {
+        "Hammers": [
+          {
+            "Name": "Blacksmith Giant Hammer",
+            "Image": "https://darksouls.fandom.com/wiki/Blacksmith_Giant_Hammer?file=Wpn_Blacksmith_Giant_Hammer.png",
+            "Damage Type": ["Strike", "Lightning"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 120,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 200,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Blacksmith Hammer",
+            "Image": "https://darksouls.fandom.com/wiki/Blacksmith_Hammer?file=Wpn_Blacksmith_Hammer.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 87,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Club",
+            "Image": "https://darksouls.fandom.com/wiki/Club?file=Wpn_Club.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 87,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "A",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Hammer of Vamos",
+            "Image": "https://darksouls.fandom.com/wiki/Hammer_of_Vamos?file=Wpn_Hammer_of_Vamos.png",
+            "Damage Type": ["Strike", "Fire"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 115,
+              "Magic Damage": 0,
+              "Fire Damage": 64,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Mace",
+            "Image": "https://darksouls.fandom.com/wiki/Mace?file=Wpn_Mace.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 91,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 12,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Morning Star",
+            "Image": "https://darksouls.fandom.com/wiki/Morning_Star_(Dark_Souls)?file=Wpn_Morning_Star.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 83,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 11,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Pickaxe",
+            "Image": "https://darksouls.fandom.com/wiki/Pickaxe?file=Wpn_Pickaxe.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 89,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 14,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Reinforced Club",
+            "Image": "https://darksouls.fandom.com/wiki/Reinforced_Club?file=Wpn_Reinforced_Club.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 97,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 12,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Warpick",
+            "Image": "https://darksouls.fandom.com/wiki/Reinforced_Club?file=Wpn_Reinforced_Club.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 91,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 11,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "D",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
+      { "Great Hammers": [{}] }
+    ],
     "Other Melee": [
       { "Daggers": [{}] },
       { "Gauntlets": [{}] },
