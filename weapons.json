@@ -3461,7 +3461,106 @@
           }
         ]
       },
-      { "Whips": [{}] },
+      {
+        "Whips": [
+          {
+            "Name": "Guardian Tail",
+            "Image": "https://darksouls.fandom.com/wiki/Guardian_Tail?file=Wpn_Guardian_Tail.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": ["Poison"],
+            "Attack Values": {
+              "Physical Damage": 84,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "30%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 15,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "_",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Notched Whip",
+            "Image": "https://darksouls.fandom.com/wiki/Notched_Whip?file=Wpn_Notched_Whip.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": ["Bleed"],
+            "Attack Values": {
+              "Physical Damage": 76,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "30%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 8,
+              "Dexterity": 16,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "_",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Whip",
+            "Image": "https://darksouls.fandom.com/wiki/Whip?file=Wpn_Whip.png",
+            "Damage Type": ["Regular"],
+            "Auxiliary Effect": ["-"],
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "30%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "_",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Lantern": [{}] }
     ],
     "Ranged": [{ "Bows": [{}] }, { "Crossbows": [{}] }],
