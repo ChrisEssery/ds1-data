@@ -1992,7 +1992,333 @@
         ]
       }
     ],
-    "Polearms": [{ "Spears": [{}] }, { "Halberds": [{}] }],
+    "Polearms": [
+      {
+        "Spears": [
+          {
+            "Name": "Channeler's Trident",
+            "Image": "https://darksouls.fandom.com/wiki/Channeler%27s_Trident?file=Wpn_Channeler%2527s_Trident.png",
+            "Damage Type": ["Thrust", "Magic"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 70,
+              "Magic Damage": 115,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 16,
+              "Intelligence": 24,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "B",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Demon's Spear",
+            "Image": "https://darksouls.fandom.com/wiki/Demon%27s_Spear?file=Wpn_Demon%2527s_Spear.png",
+            "Damage Type": ["Thrust", "Lightning"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 100,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 120,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 12,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Dragonslayer Spear",
+            "Image": "https://darksouls.fandom.com/wiki/Dragonslayer_Spear?file=Wpn_Dragonslayer_Spear.png",
+            "Damage Type": ["Thrust", "Lightning"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 95,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 65,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 24,
+              "Dexterity": 24,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "C",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "B"
+            }
+          },
+          {
+            "Name": "Four-Pronged Plow",
+            "Image": "https://darksouls.fandom.com/wiki/Four-Pronged_Plow?file=Wpn_Four-Pronged_Plow.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 75,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 15,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Moonlight Butterfly Horn",
+            "Image": "https://darksouls.fandom.com/wiki/Moonlight_Butterfly_Horn?file=Wpn_Moonlight_Butterfly_Horn.png",
+            "Damage Type": ["Magic"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 0,
+              "Magic Damage": 120,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 12,
+              "Dexterity": 0,
+              "Intelligence": 14,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "B",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Partizan",
+            "Image": "https://darksouls.fandom.com/wiki/Partizan?file=Wpn_Partizan.png",
+            "Damage Type": ["Thrust", "Regular"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 13,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Pike",
+            "Image": "https://darksouls.fandom.com/wiki/Pike?file=Wpn_Pike.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 86,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 24,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Silver Knight Spear",
+            "Image": "https://darksouls.fandom.com/wiki/Silver_Knight_Spear?file=Wpn_Silver_Knight_Spear.png",
+            "Damage Type": ["Thrust", "Regular"],
+            "Auxiliary Effect": "Divine",
+            "Attack Values": {
+              "Physical Damage": 163,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 16,
+              "Dexterity": 22,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Spear",
+            "Image": "https://darksouls.fandom.com/wiki/Spear?file=Wpn_Spear.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 11,
+              "Dexterity": 10,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Winged Spear",
+            "Image": "https://darksouls.fandom.com/wiki/Winged_Spear?file=Wpn_Winged_Spear.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 86,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "40%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 26
+            },
+            "Stat Requirements": {
+              "Strength": 13,
+              "Dexterity": 15,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
+      { "Halberds": [{}] }
+    ],
     "Hammers": [{ "Club": [{}] }, { "Great Hammers": [{}] }],
     "Other Melee": [
       { "Daggers": [{}] },
