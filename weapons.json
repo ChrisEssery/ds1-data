@@ -4295,7 +4295,227 @@
           }
         ]
       },
-      { "Talismans": [{}] },
+      {
+        "Talismans": [
+          {
+            "Name": "Canvas Talisman",
+            "Image": "https://darksouls.fandom.com/wiki/Canvas_Talisman?file=Tali_Canvas_Talisman.png",
+            "Magic Adjust": "122 - 220",
+            "Attack Values": {
+              "Physical Damage": 14,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 14
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "A"
+            }
+          },
+          {
+            "Name": "Darkmoon Talisman",
+            "Image": "https://darksouls.fandom.com/wiki/Darkmoon_Talisman?file=Tali_Darkmoon_Talisman.png",
+            "Magic Adjust": "100 - 240",
+            "Attack Values": {
+              "Physical Damage": 14,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 24
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "A"
+            }
+          },
+          {
+            "Name": "Ivory Talisman",
+            "Image": "https://darksouls.fandom.com/wiki/Sunlight_Talisman?file=Tali_Ivory_Talisman.png",
+            "Magic Adjust": "102 - 235",
+            "Attack Values": {
+              "Physical Damage": 14,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 16
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "A"
+            }
+          },
+          {
+            "Name": "Sunlight Talisman",
+            "Image": "https://darksouls.fandom.com/wiki/Sunlight_Talisman?file=Tali_Sunlight_Talisman.png",
+            "Magic Adjust": "100 - 235",
+            "Attack Values": {
+              "Physical Damage": 14,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 14
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "A"
+            }
+          },
+          {
+            "Name": "Talisman",
+            "Image": "https://darksouls.fandom.com/wiki/Talisman?file=Tali_Talisman.png",
+            "Magic Adjust": "112 - 200",
+            "Attack Values": {
+              "Physical Damage": 14,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 10
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "B"
+            }
+          },
+          {
+            "Name": "Thorolund Talisman",
+            "Image": "https://darksouls.fandom.com/wiki/Thorolund_Talisman?file=Tali_Thorolund_Talisman.png",
+            "Magic Adjust": "165",
+            "Attack Values": {
+              "Physical Damage": 14,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 10
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "C"
+            }
+          },
+          {
+            "Name": "Velka's Talisman",
+            "Image": "https://darksouls.fandom.com/wiki/Velka%27s_Talisman?file=Tali_Velkas_Talisman.png",
+            "Magic Adjust": "127 - 210",
+            "Attack Values": {
+              "Physical Damage": 14,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "26%",
+              "Magic Reduction": "8%",
+              "Fire Reduction": "20%",
+              "Lightning Reduction": "20%",
+              "Stability": 16
+            },
+            "Stat Requirements": {
+              "Strength": 4,
+              "Dexterity": 0,
+              "Intelligence": 16,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "-",
+              "Dexterity": "-",
+              "Intelligence": "A",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Pyromancy Flame": [{}] }
     ]
   }
