@@ -1333,7 +1333,170 @@
           }
         ]
       },
-      { "Thrusting Swords": [{}] },
+      {
+        "Thrusting Swords": [
+          {
+            "Name": "Estoc",
+            "Image": "https://darksouls.fandom.com/wiki/Estoc?file=Wpn_Estoc.png",
+            "Damage Type": ["Regular", "Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 75,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 22
+            },
+            "Stat Requirements": {
+              "Strength": 10,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Mail Breaker",
+            "Image": "https://darksouls.fandom.com/wiki/Mail_Breaker?file=Wpn_Mail_Breaker.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 57,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 120
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 22
+            },
+            "Stat Requirements": {
+              "Strength": 5,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Rapier",
+            "Image": "https://darksouls.fandom.com/wiki/Rapier?file=Wpn_Rapier.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 73,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 110
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 22
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 12,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Ricard's Rapier",
+            "Image": "https://darksouls.fandom.com/wiki/Ricard%27s_Rapier?file=Wpn_Ricard%2527s_Rapier.png",
+            "Damage Type": ["Thrust"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 70,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 22
+            },
+            "Stat Requirements": {
+              "Strength": 8,
+              "Dexterity": 20,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Velka's Rapier",
+            "Image": "https://darksouls.fandom.com/wiki/Velka%27s_Rapier?file=Wpn_Velka%2527s_Rapier.png",
+            "Damage Type": ["Regular", "Thrust", "Magic"],
+            "Auxiliary Effect": "Occult",
+            "Attack Values": {
+              "Physical Damage": 62,
+              "Magic Damage": 104,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 22
+            },
+            "Stat Requirements": {
+              "Strength": 8,
+              "Dexterity": 16,
+              "Intelligence": 16,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "B",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Katanas": [{}] }
     ],
     "Axes": [{ "Axes": [{}] }, { "Greataxes": [{}] }],
