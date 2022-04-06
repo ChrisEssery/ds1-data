@@ -2903,7 +2903,202 @@
           }
         ]
       },
-      { "Great Hammers": [{}] }
+      {
+        "Great Hammers": [
+          {
+            "Name": "Demon's Great Hammer",
+            "Image": "https://darksouls.fandom.com/wiki/Demon%27s_Great_Hammer?file=Wpn_Demon%2527s_Great_Hammer.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 138,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 46,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Dragon Tooth",
+            "Image": "https://darksouls.fandom.com/wiki/Dragon_Tooth?file=Dragon_tooth.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 290,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 40,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Grant",
+            "Image": "https://darksouls.fandom.com/wiki/Grant?file=Wpn_Grant.png",
+            "Damage Type": ["Strike", "Magic"],
+            "Auxiliary Effect": "Divine",
+            "Attack Values": {
+              "Physical Damage": 130,
+              "Magic Damage": 130,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 50,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 30
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "A"
+            }
+          },
+          {
+            "Name": "Great Club",
+            "Image": "https://darksouls.fandom.com/wiki/Great_Club?file=Wpn_Great_Club.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 135,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 28,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "B",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Large Club",
+            "Image": "https://darksouls.fandom.com/wiki/Large_Club?file=Wpn_Large_Club.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "Poison",
+            "Attack Values": {
+              "Physical Damage": 120,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "55%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "40%",
+              "Lightning Reduction": "40%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 26,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "A",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Smough's Hammer",
+            "Image": "https://darksouls.fandom.com/wiki/Smough%27s_Hammer?file=Wpn_Smough%2527s_Hammer.png",
+            "Damage Type": ["Strike"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 300,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "50%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "35%",
+              "Lightning Reduction": "35%",
+              "Stability": 32
+            },
+            "Stat Requirements": {
+              "Strength": 58,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "D",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      }
     ],
     "Other Melee": [
       { "Daggers": [{}] },
