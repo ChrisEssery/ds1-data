@@ -1005,7 +1005,234 @@
           }
         ]
       },
-      { "Curved Swords": [{}] },
+      {
+        "Curved Swords": [
+          {
+            "Name": "Falchion",
+            "Image": "https://darksouls.fandom.com/wiki/Falchion_(Dark_Souls)?file=Wpn_Falchion.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 82,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 9,
+              "Dexterity": 13,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Gold Tracer",
+            "Image": "https://darksouls.fandom.com/wiki/Gold_Tracer?file=Wpn_Gold_Tracer.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 130,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 9,
+              "Dexterity": 25,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "A",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Jagged Ghost Blade",
+            "Image": "https://darksouls.fandom.com/wiki/Jagged_Ghost_Blade?file=Wpn_Jagged_Ghost_Blade.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 155,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 0,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "-",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Painting Guardian Sword",
+            "Image": "https://darksouls.fandom.com/wiki/Painting_Guardian_Sword?file=Wpn_Painting_Guardian_Sword.png",
+            "Damage Type": ["Slash", "Thrust"],
+            "Auxiliary Effect": "Bleed",
+            "Attack Values": {
+              "Physical Damage": 76,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 20,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "A",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Queelaag's Furysword",
+            "Image": "https://darksouls.fandom.com/wiki/Quelaag%27s_Furysword?file=Wpn_Queelag%2527s_Furysword.png",
+            "Damage Type": ["Slash", "Fire"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 60,
+              "Magic Damage": 0,
+              "Fire Damage": 180,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 11,
+              "Dexterity": 13,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Scimitar",
+            "Image": "https://darksouls.fandom.com/wiki/Scimitar?file=Wpn_Scimitar.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 80,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 7,
+              "Dexterity": 13,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "B",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          },
+          {
+            "Name": "Shotel",
+            "Image": "https://darksouls.fandom.com/wiki/Shotel?file=Wpn_Shotel.png",
+            "Damage Type": ["Slash"],
+            "Auxiliary Effect": "-",
+            "Attack Values": {
+              "Physical Damage": 82,
+              "Magic Damage": 0,
+              "Fire Damage": 0,
+              "Lightning Damage": 0,
+              "Critical": 100
+            },
+            "Damage Reduction": {
+              "Physical Reduction": "45%",
+              "Magic Reduction": "10%",
+              "Fire Reduction": "30%",
+              "Lightning Reduction": "30%",
+              "Stability": 30
+            },
+            "Stat Requirements": {
+              "Strength": 9,
+              "Dexterity": 14,
+              "Intelligence": 0,
+              "Faith": 0
+            },
+            "Parameter Bonus": {
+              "Strength": "E",
+              "Dexterity": "C",
+              "Intelligence": "-",
+              "Faith": "-"
+            }
+          }
+        ]
+      },
       { "Curved Greatswords": [{}] },
       { "Thrusting Swords": [{}] },
       { "Katanas": [{}] }
