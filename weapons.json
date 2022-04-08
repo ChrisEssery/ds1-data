@@ -7,7 +7,7 @@
             "Name": "Astora's Straight Sword",
             "Image": "https://darksouls.fandom.com/wiki/Astora%27s_Straight_Sword?file=Wpn_Astora%2527s_Straight_Sword.png",
             "Damage Type": ["Regular", "Thrust", "Magic"],
-            "Auxiliary Effect": "Divine",
+            "Auxiliary Effect": ["Divine"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 80,
@@ -39,7 +39,7 @@
             "Name": "Balder Side Sword",
             "Image": "https://darksouls.fandom.com/wiki/Balder_Side_Sword?file=Wpn_Balder_Side_Sword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 0,
@@ -71,7 +71,7 @@
             "Name": "Barbed Straight Sword",
             "Image": "https://darksouls.fandom.com/wiki/Barbed_Straight_Sword?file=Wpn_Barbed_Straight_Sword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 0,
@@ -103,7 +103,7 @@
             "Name": "Broadsword",
             "Image": "https://darksouls.fandom.com/wiki/Broadsword?file=Wpn_Broadsword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 82,
               "Magic Damage": 0,
@@ -135,7 +135,7 @@
             "Name": "Broken Straight Sword",
             "Image": "https://darksouls.fandom.com/wiki/Broken_Straight_Sword?file=Wpn_Broken_Straight_Sword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 40,
               "Magic Damage": 0,
@@ -167,7 +167,7 @@
             "Name": "Crystal Straight Sword",
             "Image": "https://darksouls.fandom.com/wiki/Crystal_Straight_Sword?file=Wpn_Crystal_Straight_Sword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 145,
               "Magic Damage": 0,
@@ -199,7 +199,7 @@
             "Name": "Darksword",
             "Image": "https://darksouls.fandom.com/wiki/Darksword?file=Wpn_Darksword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 82,
               "Magic Damage": 0,
@@ -231,7 +231,7 @@
             "Name": "Drake Sword",
             "Image": "https://darksouls.fandom.com/wiki/Drake_Sword?file=Wpn_Drake_Sword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 200,
               "Magic Damage": 0,
@@ -263,7 +263,7 @@
             "Name": "Longsword",
             "Image": "https://darksouls.fandom.com/wiki/Longsword?file=Wpn_Longsword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 0,
@@ -295,7 +295,7 @@
             "Name": "Shortsword",
             "Image": "https://darksouls.fandom.com/wiki/Shortsword?file=Wpn_Shortsword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 78,
               "Magic Damage": 0,
@@ -327,7 +327,7 @@
             "Name": "Silver Knight Straight Sword",
             "Image": "https://darksouls.fandom.com/wiki/Silver_Knight_Straight_Sword?file=Wpn_Silver_Knight_Straight_Sword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 175,
               "Magic Damage": 0,
@@ -359,7 +359,7 @@
             "Name": "Straight Sword Hilt",
             "Image": "https://darksouls.fandom.com/wiki/Straight_Sword_Hilt?file=Wpn_Straight_Sword_Hilt.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 20,
               "Magic Damage": 0,
@@ -391,7 +391,7 @@
             "Name": "Sunlight Straight Sword",
             "Image": "https://darksouls.fandom.com/wiki/Sunlight_Straight_Sword?file=Wpn_Sunlight_Straight_Sword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 82,
               "Magic Damage": 0,
@@ -427,7 +427,7 @@
             "Name": "Abyss Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Abyss_Greatsword?file=Wpn_Abyss_Greatsword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 160,
               "Magic Damage": 0,
@@ -459,7 +459,7 @@
             "Name": "Bastard Sword",
             "Image": "https://darksouls.fandom.com/wiki/Bastard_Sword?file=Wpn_Bastard_Sword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 105,
               "Magic Damage": 0,
@@ -491,7 +491,7 @@
             "Name": "Black Knight Sword",
             "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Sword?file=Wpn_Black_Knight_Sword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 220,
               "Magic Damage": 0,
@@ -523,7 +523,7 @@
             "Name": "Claymore",
             "Image": "https://darksouls.fandom.com/wiki/Claymore?file=Wpn_Claymore.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 103,
               "Magic Damage": 0,
@@ -555,7 +555,7 @@
             "Name": "Crystal Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Crystal_Greatsword?file=Wpn_Crystal_Greatsword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 190,
               "Magic Damage": 0,
@@ -587,7 +587,7 @@
             "Name": "Flamberge",
             "Image": "https://darksouls.fandom.com/wiki/Flamberge?file=Wpn_Flamberge.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 100,
               "Magic Damage": 0,
@@ -619,7 +619,7 @@
             "Name": "Great Lord Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Great_Lord_Greatsword?file=Wpn_Great_Lord_Greatsword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 256,
               "Magic Damage": 0,
@@ -651,7 +651,7 @@
             "Name": "Greatsword of Artorias",
             "Image": "https://darksouls.fandom.com/wiki/Greatsword_of_Artorias?file=Weapon-weapon-greatsword_of_artorias.png",
             "Damage Type": ["Regular", "Thrust", "Magic"],
-            "Auxiliary Effect": "Divine",
+            "Auxiliary Effect": ["Divine"],
             "Attack Values": {
               "Physical Damage": 120,
               "Magic Damage": 85,
@@ -683,7 +683,7 @@
             "Name": "Greatsword of Artorias (Cursed)",
             "Image": "https://darksouls.fandom.com/wiki/Greatsword_of_Artorias_(Cursed)?file=Wpn_Greatsword_of_Atorias.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 178,
               "Magic Damage": 0,
@@ -715,7 +715,7 @@
             "Name": "Man-serpent Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Man-serpent_Greatsword?file=Wpn_Man-Serpent_Greatsword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 110,
               "Magic Damage": 0,
@@ -747,7 +747,7 @@
             "Name": "Moonlight Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Moonlight_Greatsword_(Dark_Souls)?file=Wpn_Moonlight_Greatsword.png",
             "Damage Type": ["Magic"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 0,
               "Magic Damage": 132,
@@ -779,7 +779,7 @@
             "Name": "Obsidian Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Obsidian_Greatsword?file=Wpn_Obsidian_Greatsword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 320,
               "Magic Damage": 0,
@@ -811,7 +811,7 @@
             "Name": "Stone Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Stone_Greatsword?file=Wpn_Stone_Greatsword.png",
             "Damage Type": ["Regular", "Magic"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 148,
               "Magic Damage": 100,
@@ -847,7 +847,7 @@
             "Name": "Black Knight Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Greatsword?file=Wpn_Black_Knight_Greatsword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 220,
               "Magic Damage": 0,
@@ -879,7 +879,7 @@
             "Name": "Demon Great Machete",
             "Image": "https://darksouls.fandom.com/wiki/Demon_Great_Machete?file=Wpn_Demon_Great_Machete.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 133,
               "Magic Damage": 0,
@@ -911,7 +911,7 @@
             "Name": "Dragon Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Dragon_Greatsword?file=Wpn_Dragon_Greatsword.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 390,
               "Magic Damage": 0,
@@ -943,7 +943,7 @@
             "Name": "Greatsword",
             "Image": "https://darksouls.fandom.com/wiki/Greatsword?file=Wpn_Greatsword.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 130,
               "Magic Damage": 0,
@@ -975,7 +975,7 @@
             "Name": "Zweihander",
             "Image": "https://darksouls.fandom.com/wiki/Zweihander?file=Wpn_Zweihander.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 130,
               "Magic Damage": 0,
@@ -1011,7 +1011,7 @@
             "Name": "Falchion",
             "Image": "https://darksouls.fandom.com/wiki/Falchion_(Dark_Souls)?file=Wpn_Falchion.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 82,
               "Magic Damage": 0,
@@ -1043,7 +1043,7 @@
             "Name": "Gold Tracer",
             "Image": "https://darksouls.fandom.com/wiki/Gold_Tracer?file=Wpn_Gold_Tracer.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 130,
               "Magic Damage": 0,
@@ -1075,7 +1075,7 @@
             "Name": "Jagged Ghost Blade",
             "Image": "https://darksouls.fandom.com/wiki/Jagged_Ghost_Blade?file=Wpn_Jagged_Ghost_Blade.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 155,
               "Magic Damage": 0,
@@ -1107,7 +1107,7 @@
             "Name": "Painting Guardian Sword",
             "Image": "https://darksouls.fandom.com/wiki/Painting_Guardian_Sword?file=Wpn_Painting_Guardian_Sword.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 76,
               "Magic Damage": 0,
@@ -1139,7 +1139,7 @@
             "Name": "Queelaag's Furysword",
             "Image": "https://darksouls.fandom.com/wiki/Quelaag%27s_Furysword?file=Wpn_Queelag%2527s_Furysword.png",
             "Damage Type": ["Slash", "Fire"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 60,
               "Magic Damage": 0,
@@ -1171,7 +1171,7 @@
             "Name": "Scimitar",
             "Image": "https://darksouls.fandom.com/wiki/Scimitar?file=Wpn_Scimitar.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 0,
@@ -1203,7 +1203,7 @@
             "Name": "Shotel",
             "Image": "https://darksouls.fandom.com/wiki/Shotel?file=Wpn_Shotel.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 82,
               "Magic Damage": 0,
@@ -1239,7 +1239,7 @@
             "Name": "Gravelord Sword",
             "Image": "https://darksouls.fandom.com/wiki/Gravelord_Sword?file=Wpn_Gravelord_Sword.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "Toxic",
+            "Auxiliary Effect": ["Toxic"],
             "Attack Values": {
               "Physical Damage": 265,
               "Magic Damage": 0,
@@ -1271,7 +1271,7 @@
             "Name": "Murakumo",
             "Image": "https://darksouls.fandom.com/wiki/Murakumo?file=Wpn_Murakumo.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 113,
               "Magic Damage": 0,
@@ -1303,7 +1303,7 @@
             "Name": "Server",
             "Image": "https://darksouls.fandom.com/wiki/Server?file=Wpn_Server.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 107,
               "Magic Damage": 0,
@@ -1339,7 +1339,7 @@
             "Name": "Estoc",
             "Image": "https://darksouls.fandom.com/wiki/Estoc?file=Wpn_Estoc.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 75,
               "Magic Damage": 0,
@@ -1371,7 +1371,7 @@
             "Name": "Mail Breaker",
             "Image": "https://darksouls.fandom.com/wiki/Mail_Breaker?file=Wpn_Mail_Breaker.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 57,
               "Magic Damage": 0,
@@ -1403,7 +1403,7 @@
             "Name": "Rapier",
             "Image": "https://darksouls.fandom.com/wiki/Rapier?file=Wpn_Rapier.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 73,
               "Magic Damage": 0,
@@ -1435,7 +1435,7 @@
             "Name": "Ricard's Rapier",
             "Image": "https://darksouls.fandom.com/wiki/Ricard%27s_Rapier?file=Wpn_Ricard%2527s_Rapier.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 70,
               "Magic Damage": 0,
@@ -1467,7 +1467,7 @@
             "Name": "Velka's Rapier",
             "Image": "https://darksouls.fandom.com/wiki/Velka%27s_Rapier?file=Wpn_Velka%2527s_Rapier.png",
             "Damage Type": ["Regular", "Thrust", "Magic"],
-            "Auxiliary Effect": "Occult",
+            "Auxiliary Effect": ["Occult"],
             "Attack Values": {
               "Physical Damage": 62,
               "Magic Damage": 104,
@@ -1503,7 +1503,7 @@
             "Name": "Chaos Blade",
             "Image": "https://darksouls.fandom.com/wiki/Chaos_Blade?file=Wpn_Chaos_Blade.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 133,
               "Magic Damage": 0,
@@ -1535,7 +1535,7 @@
             "Name": "Iaito",
             "Image": "https://darksouls.fandom.com/wiki/Iaito?file=Wpn_Iaito.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 88,
               "Magic Damage": 0,
@@ -1567,7 +1567,7 @@
             "Name": "Uchigatana",
             "Image": "https://darksouls.fandom.com/wiki/Uchigatana?file=Wpn_Uchigatana.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 90,
               "Magic Damage": 0,
@@ -1599,7 +1599,7 @@
             "Name": "Washing Pole",
             "Image": "https://darksouls.fandom.com/wiki/Washing_Pole?file=Wpn_Washing_Pole.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 90,
               "Magic Damage": 0,
@@ -1637,7 +1637,7 @@
             "Name": "Battle Axe",
             "Image": "https://darksouls.fandom.com/wiki/Battle_Axe?file=Wpn_Battle_Axe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 95,
               "Magic Damage": 0,
@@ -1669,7 +1669,7 @@
             "Name": "Butcher Knife",
             "Image": "https://darksouls.fandom.com/wiki/Butcher_Knife?file=Wpn_Butcher_Knife.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 90,
               "Magic Damage": 0,
@@ -1701,7 +1701,7 @@
             "Name": "Crescent Axe",
             "Image": "https://darksouls.fandom.com/wiki/Crescent_Axe?file=Wpn_Crescent_Axe.png",
             "Damage Type": ["Regular", "Thrust", "Magic"],
-            "Auxiliary Effect": "Divine",
+            "Auxiliary Effect": ["Divine"],
             "Attack Values": {
               "Physical Damage": 116,
               "Magic Damage": 115,
@@ -1733,7 +1733,7 @@
             "Name": "Gargoyle Tail Axe",
             "Image": "https://darksouls.fandom.com/wiki/Gargoyle_Tail_Axe?file=Wpn_Gargoyle_Tail_Axe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 93,
               "Magic Damage": 0,
@@ -1765,7 +1765,7 @@
             "Name": "Golem Axe",
             "Image": "https://darksouls.fandom.com/wiki/Golem_Axe?file=Wpn_Golem_Axe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 170,
               "Magic Damage": 0,
@@ -1797,7 +1797,7 @@
             "Name": "Hand Axe",
             "Image": "https://darksouls.fandom.com/wiki/Hand_Axe",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 0,
@@ -1833,7 +1833,7 @@
             "Name": "Black Knight Greataxe",
             "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Greataxe?file=Wpn_Black_Knight_Greataxe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 229,
               "Magic Damage": 0,
@@ -1865,7 +1865,7 @@
             "Name": "Demon's Greataxe",
             "Image": "https://darksouls.fandom.com/wiki/Demon%27s_Greataxe?file=Wpn_Demon%2527s_Greataxe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 114,
               "Magic Damage": 0,
@@ -1897,7 +1897,7 @@
             "Name": "Dragon King Greataxe",
             "Image": "https://darksouls.fandom.com/wiki/Dragon_King_Greataxe?file=Wpn_Dragon_King_Greataxe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 380,
               "Magic Damage": 0,
@@ -1929,7 +1929,7 @@
             "Name": "Greataxe",
             "Image": "https://darksouls.fandom.com/wiki/Greataxe?file=Wpn_Greataxe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 140,
               "Magic Damage": 0,
@@ -1961,7 +1961,7 @@
             "Name": "Stone Greataxe",
             "Image": "https://darksouls.fandom.com/wiki/Stone_Greataxe?file=Stone_Greataxe.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 190,
               "Magic Damage": 0,
@@ -1999,7 +1999,7 @@
             "Name": "Channeler's Trident",
             "Image": "https://darksouls.fandom.com/wiki/Channeler%27s_Trident?file=Wpn_Channeler%2527s_Trident.png",
             "Damage Type": ["Thrust", "Magic"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 70,
               "Magic Damage": 115,
@@ -2031,7 +2031,7 @@
             "Name": "Demon's Spear",
             "Image": "https://darksouls.fandom.com/wiki/Demon%27s_Spear?file=Wpn_Demon%2527s_Spear.png",
             "Damage Type": ["Thrust", "Lightning"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 100,
               "Magic Damage": 0,
@@ -2063,7 +2063,7 @@
             "Name": "Dragonslayer Spear",
             "Image": "https://darksouls.fandom.com/wiki/Dragonslayer_Spear?file=Wpn_Dragonslayer_Spear.png",
             "Damage Type": ["Thrust", "Lightning"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 95,
               "Magic Damage": 0,
@@ -2095,7 +2095,7 @@
             "Name": "Four-Pronged Plow",
             "Image": "https://darksouls.fandom.com/wiki/Four-Pronged_Plow?file=Wpn_Four-Pronged_Plow.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 75,
               "Magic Damage": 0,
@@ -2127,7 +2127,7 @@
             "Name": "Moonlight Butterfly Horn",
             "Image": "https://darksouls.fandom.com/wiki/Moonlight_Butterfly_Horn?file=Wpn_Moonlight_Butterfly_Horn.png",
             "Damage Type": ["Magic"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 0,
               "Magic Damage": 120,
@@ -2159,7 +2159,7 @@
             "Name": "Partizan",
             "Image": "https://darksouls.fandom.com/wiki/Partizan?file=Wpn_Partizan.png",
             "Damage Type": ["Thrust", "Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 0,
@@ -2191,7 +2191,7 @@
             "Name": "Pike",
             "Image": "https://darksouls.fandom.com/wiki/Pike?file=Wpn_Pike.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 86,
               "Magic Damage": 0,
@@ -2223,7 +2223,7 @@
             "Name": "Silver Knight Spear",
             "Image": "https://darksouls.fandom.com/wiki/Silver_Knight_Spear?file=Wpn_Silver_Knight_Spear.png",
             "Damage Type": ["Thrust", "Regular"],
-            "Auxiliary Effect": "Divine",
+            "Auxiliary Effect": ["Divine"],
             "Attack Values": {
               "Physical Damage": 163,
               "Magic Damage": 0,
@@ -2255,7 +2255,7 @@
             "Name": "Spear",
             "Image": "https://darksouls.fandom.com/wiki/Spear?file=Wpn_Spear.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 80,
               "Magic Damage": 0,
@@ -2287,7 +2287,7 @@
             "Name": "Winged Spear",
             "Image": "https://darksouls.fandom.com/wiki/Winged_Spear?file=Wpn_Winged_Spear.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 86,
               "Magic Damage": 0,
@@ -2323,7 +2323,7 @@
             "Name": "Black Knight Halberd",
             "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Halberd?file=Wpn_Black_Knight_Halberd.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 245,
               "Magic Damage": 0,
@@ -2355,7 +2355,7 @@
             "Name": "Gargoyle's Halberd",
             "Image": "https://darksouls.fandom.com/wiki/Black_Knight_Halberd?file=Wpn_Black_Knight_Halberd.png",
             "Damage Type": ["Regular"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 115,
               "Magic Damage": 0,
@@ -2387,7 +2387,7 @@
             "Name": "Giant's Halberd",
             "Image": "https://darksouls.fandom.com/wiki/Giant%27s_Halberd?file=Wpn_Giant%2527s_Halberd.png",
             "Damage Type": ["Regular", "Thrust", "Lightning"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 140,
               "Magic Damage": 0,
@@ -2419,7 +2419,7 @@
             "Name": "Great Scythe",
             "Image": "https://darksouls.fandom.com/wiki/Great_Scythe?file=Wpn_Great_Scythe.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 100,
               "Magic Damage": 0,
@@ -2451,7 +2451,7 @@
             "Name": "Halberd",
             "Image": "https://darksouls.fandom.com/wiki/Halberd?file=Wpn_Halberd.png",
             "Damage Type": ["Regular", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 110,
               "Magic Damage": 0,
@@ -2483,7 +2483,7 @@
             "Name": "Lifehunt Scythe",
             "Image": "https://darksouls.fandom.com/wiki/Lifehunt_Scythe?file=Wpn_Lifehunt_Scythe.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 180,
               "Magic Damage": 0,
@@ -2515,7 +2515,7 @@
             "Name": "Lucerne",
             "Image": "https://darksouls.fandom.com/wiki/Lucerne?file=Wpn_Lucerne.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 110,
               "Magic Damage": 0,
@@ -2547,7 +2547,7 @@
             "Name": "Scythe",
             "Image": "https://darksouls.fandom.com/wiki/Scythe?file=Wpn_Scythe.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 110,
               "Magic Damage": 0,
@@ -2579,7 +2579,7 @@
             "Name": "Titanite Catch Pole",
             "Image": "https://darksouls.fandom.com/wiki/Titanite_Catch_Pole?file=Wpn_Titanite_Catch_Pole.png",
             "Damage Type": ["Regular", "Magic"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 125,
               "Magic Damage": 145,
@@ -2617,7 +2617,7 @@
             "Name": "Blacksmith Giant Hammer",
             "Image": "https://darksouls.fandom.com/wiki/Blacksmith_Giant_Hammer?file=Wpn_Blacksmith_Giant_Hammer.png",
             "Damage Type": ["Strike", "Lightning"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 120,
               "Magic Damage": 0,
@@ -2649,7 +2649,7 @@
             "Name": "Blacksmith Hammer",
             "Image": "https://darksouls.fandom.com/wiki/Blacksmith_Hammer?file=Wpn_Blacksmith_Hammer.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 87,
               "Magic Damage": 0,
@@ -2681,7 +2681,7 @@
             "Name": "Club",
             "Image": "https://darksouls.fandom.com/wiki/Club?file=Wpn_Club.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 87,
               "Magic Damage": 0,
@@ -2713,7 +2713,7 @@
             "Name": "Hammer of Vamos",
             "Image": "https://darksouls.fandom.com/wiki/Hammer_of_Vamos?file=Wpn_Hammer_of_Vamos.png",
             "Damage Type": ["Strike", "Fire"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 115,
               "Magic Damage": 0,
@@ -2745,7 +2745,7 @@
             "Name": "Mace",
             "Image": "https://darksouls.fandom.com/wiki/Mace?file=Wpn_Mace.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 91,
               "Magic Damage": 0,
@@ -2777,7 +2777,7 @@
             "Name": "Morning Star",
             "Image": "https://darksouls.fandom.com/wiki/Morning_Star_(Dark_Souls)?file=Wpn_Morning_Star.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 83,
               "Magic Damage": 0,
@@ -2809,7 +2809,7 @@
             "Name": "Pickaxe",
             "Image": "https://darksouls.fandom.com/wiki/Pickaxe?file=Wpn_Pickaxe.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 89,
               "Magic Damage": 0,
@@ -2841,7 +2841,7 @@
             "Name": "Reinforced Club",
             "Image": "https://darksouls.fandom.com/wiki/Reinforced_Club?file=Wpn_Reinforced_Club.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 97,
               "Magic Damage": 0,
@@ -2873,7 +2873,7 @@
             "Name": "Warpick",
             "Image": "https://darksouls.fandom.com/wiki/Reinforced_Club?file=Wpn_Reinforced_Club.png",
             "Damage Type": ["Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 91,
               "Magic Damage": 0,
@@ -2909,7 +2909,7 @@
             "Name": "Demon's Great Hammer",
             "Image": "https://darksouls.fandom.com/wiki/Demon%27s_Great_Hammer?file=Wpn_Demon%2527s_Great_Hammer.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 138,
               "Magic Damage": 0,
@@ -2941,7 +2941,7 @@
             "Name": "Dragon Tooth",
             "Image": "https://darksouls.fandom.com/wiki/Dragon_Tooth?file=Dragon_tooth.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 290,
               "Magic Damage": 0,
@@ -2973,7 +2973,7 @@
             "Name": "Grant",
             "Image": "https://darksouls.fandom.com/wiki/Grant?file=Wpn_Grant.png",
             "Damage Type": ["Strike", "Magic"],
-            "Auxiliary Effect": "Divine",
+            "Auxiliary Effect": ["Divine"],
             "Attack Values": {
               "Physical Damage": 130,
               "Magic Damage": 130,
@@ -3005,7 +3005,7 @@
             "Name": "Great Club",
             "Image": "https://darksouls.fandom.com/wiki/Great_Club?file=Wpn_Great_Club.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 135,
               "Magic Damage": 0,
@@ -3037,7 +3037,7 @@
             "Name": "Large Club",
             "Image": "https://darksouls.fandom.com/wiki/Large_Club?file=Wpn_Large_Club.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "Poison",
+            "Auxiliary Effect": ["Poison"],
             "Attack Values": {
               "Physical Damage": 120,
               "Magic Damage": 0,
@@ -3069,7 +3069,7 @@
             "Name": "Smough's Hammer",
             "Image": "https://darksouls.fandom.com/wiki/Smough%27s_Hammer?file=Wpn_Smough%2527s_Hammer.png",
             "Damage Type": ["Strike"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 300,
               "Magic Damage": 0,
@@ -3107,7 +3107,7 @@
             "Name": "Bandit's Knife",
             "Image": "https://darksouls.fandom.com/wiki/Bandit%27s_Knife?file=Wpn_Bandit%2527s_Knife.png",
             "Damage Type": ["Slash"],
-            "Auxiliary Effect": "Bleed",
+            "Auxiliary Effect": ["Bleed"],
             "Attack Values": {
               "Physical Damage": 56,
               "Magic Damage": 0,
@@ -3139,7 +3139,7 @@
             "Name": "Dagger",
             "Image": "https://darksouls.fandom.com/wiki/Dagger?file=Wpn_Dagger.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 56,
               "Magic Damage": 0,
@@ -3171,7 +3171,7 @@
             "Name": "Dark Silver Tracer",
             "Image": "https://darksouls.fandom.com/wiki/Dark_Silver_Tracer?file=Wpn_Dark_Silver_Tracer.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "Toxic",
+            "Auxiliary Effect": ["Toxic"],
             "Attack Values": {
               "Physical Damage": 75,
               "Magic Damage": 0,
@@ -3203,7 +3203,7 @@
             "Name": "Ghost Blade",
             "Image": "https://darksouls.fandom.com/wiki/Ghost_Blade?file=Wpn_Ghost_Blade.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 110,
               "Magic Damage": 0,
@@ -3235,7 +3235,7 @@
             "Name": "Parrying Dagger",
             "Image": "https://darksouls.fandom.com/wiki/Parrying_Dagger?file=Wpn_Parrying_Dagger.png",
             "Damage Type": ["Slash", "Thrust"],
-            "Auxiliary Effect": "-",
+            "Auxiliary Effect": ["-"],
             "Attack Values": {
               "Physical Damage": 54,
               "Magic Damage": 0,
